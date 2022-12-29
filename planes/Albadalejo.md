@@ -2,6 +2,12 @@
 Ver 1
 _No es mas tonto porque no se entrena_
 
+- [Plan Albaladejo](#plan-albaladejo)
+  - [Introducción](#introducción)
+  - [El plan](#el-plan)
+  - [Elementos necesarios](#elementos-necesarios)
+  - [Versiones](#versiones)
+
 ## Introducción
 El plan Albadalejo es un plan de muestra para que pueda copiar y pegar y sustituir, así pensando poco.
 
@@ -17,7 +23,9 @@ No hay categorías concretas que tengan que entrar en el plan, pero sí que hay 
 - El plan en sí
 - Documentación
 - Control de versiones
+- Actualizar la tabla de contenidos
 
 ## Versiones
 
 1. declaración del plan y las partes que tiene
+2. Tabla de contenidos
