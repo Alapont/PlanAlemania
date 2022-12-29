@@ -21,7 +21,7 @@ Tengo que saber qué piensan mis amigos de esto. Pero también pasa que la dista
 Alguien tiene que cuidar la casa y mis posesiones materiales en esta tierra. Abrir el buzón, darle la vuelta a los cadáveres. Tiene que ser alguien de confienza con mi madre porque a ella le llegan la mayoría de las cartas. También tengo que acondicionarla.
 
 - **Médicas**
-Hay cosas que puedo hacer mucho acopio y cosas que menos. A Finlandia llevé un año de material, pero puede que no me dejen llevar mas de 3 meses
+Hay cosas que puedo hacer mucho acopio y cosas que menos. A Finlandia llevé un año de material, pero puede que no me dejen llevar mas de 3 meses. Se detallan en el [plan Toronto](Toronto.md)
 
 - **Plan**
 El plan es lo suficientemente robusto

@@ -42,16 +42,6 @@ Cada modalidad de ruta puede añadir o cambiar el equipaje según restricciones.
 - **Indirecto** Cosas que me llevaría si viajo pasando por Praga
 
 **Tabla de ejemplo**
-| Objeto | Lista       | Plan   |
-|--------|-------------|--------|
-|        | Obligatorio | Trento |
-|        | Opcional    |        |
-|        | Moto        |        |
-|        | Directo     |        |
-|        | No directo  |        |
-
-
-
 | Objeto                                                                              | Lista       | Plan   |
 |-------------------------------------------------------------------------------------|-------------|--------|
 | Insulina                                                                            | Obligatorio | Trento |
@@ -59,6 +49,16 @@ Cada modalidad de ruta puede añadir o cambiar el equipaje según restricciones.
 | Navaja                                                                              | Moto        | Berlín |
 | Queso tetilla                                                                       | Directo     |        |
 | bañador                                                                             | No directo  | Praga  |
+
+
+**Tabla de verdad**
+| Objeto | Lista       | Plan   |
+|--------|-------------|--------|
+| Camiseta para Betsy | Obligatorio | Trento |
+| Insulina | Obligatorio    |        |
+
+
+
 
 
 

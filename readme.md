@@ -6,6 +6,7 @@ Todas mis notas y documentación para irme a Alemania, [ver plan Alemania](Alema
   - [plan Alejandría](planes/Alejandría.md)
     - [plan Albadalejo](planes/Albadalejo.md)
   - [plan Trento](planes/Trento.md)
+    - [plan Toronto](planes/Toronto.md)
   - [plan Santiago](planes/Santiago.md)
     - [plan Brno](planes/Brno.md)
     - [plan Le Mans](planes/Le%20Mans.md)
@@ -25,7 +26,8 @@ Todas mis notas y documentación para irme a Alemania, [ver plan Alemania](Alema
 | 3  | Saber si puedo trabajar desde Alemania   | Trento     | to do       | baja      |
 | 4  | Preguntar opiniones                      | Trento     | 0/10        | baja      |
 | 5  | Liar a alguien para que pase por casa    | Trento     | to do       | baja      |
-| 6  | Preguntar a la enfermera por provisiones | Trento     | to do       | baja      |
+| 6  | Preguntar a la enfermera por provisiones | Toronto    | to do       | baja      |
+| 8  | Conseguir receta impresa de medicinas    | Toronto    | to do       | baja      |
 |    | **tareas realizadas**                    | Alemania   |             |           |
 | 1  | Formatear Planes                         | Albadalejo | En progreso | baja      |
 | 7  | Añadir todos los planes y generar Berlín | Alemania   | hecho       | alta      |
