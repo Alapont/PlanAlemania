@@ -14,6 +14,9 @@ Punto uno, el gato es mío y me lo follo cuando quiero
 
 Punto dos, si, pero así es mas divertido y fácil de ponerle un nombre, que los que tenía antes eran horribles y me parece mas fácil hablar del plan Alejandría, que del plan "la preparación de la decisión de si me voy o me quedo
 ~~~
+
+Un plan también puede tener tareas por hacer que se añaden al pool de tareas.
+
 ## Partes de un plan
 Sin ningún orden determinado, cada plan debería tener:
 
