@@ -20,4 +20,4 @@ No hay categorías concretas que tengan que entrar en el plan, pero sí que hay 
 
 ## Versiones
 
-1 declaración del plan y las partes que tiene
+1. declaración del plan y las partes que tiene
