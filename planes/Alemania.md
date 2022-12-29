@@ -15,3 +15,6 @@ El plan mas corto y mas complejo, para cuando se ejecute se va a saber la respue
 
 ## El plan
 La forma física de ir a Berlín y los preparativos. Este es el [plan Santiago](Santiago.md)
+
+## Versiones
+1. Versión inicial

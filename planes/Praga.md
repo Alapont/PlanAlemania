@@ -1,5 +1,4 @@
 # Praga
-
 Lo que voy a hacer en Praga con Betsy
 
 ## Turisteo
@@ -8,3 +7,7 @@ Spa
 
 ## Comer
 Vytopna restaurante con trenes
+
+
+## Versiones
+1. Versión inicial

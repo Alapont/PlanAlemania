@@ -17,4 +17,4 @@ Betsy tiene amigos majos, pero tengo que buscarme comunidad local. No vayas a es
 
 ## Versiones
 
-1 versión inicial y primeras características
+1. versión inicial y primeras características

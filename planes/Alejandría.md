@@ -31,3 +31,8 @@ Esto puede diferir con lo que hay en el [plan Albadalejo](Albadalejo.md), queda 
 
 ## PlanPlantilla
 Hay una plantilla por defecto en el [plan Albadalejo](Albadalejo.md)
+
+
+## Versiones
+1. Versión inicial
+2. Aunar elementos necesarios

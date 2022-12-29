@@ -17,3 +17,49 @@ Hay varias rutas disponibles. Las dos diferencias principales son el uso de tran
 | Le Mans    | Si      | Moto      |
 | Brno       | No      | Moto      |
 | Las Palmas | No      | Avión/Bus |
+
+## Restricciones
+Cada modo de viaje puede tener sus restricciones. 
+
+### Avión
+Las restricciones en avión pasan por el tamaño del equipaje (que muy posiblemente facturase) y por los lmites de líquidos (vino, aceite) y de tipos de objetos (navajas)
+
+### Moto
+Los dos factores de moto son el tiempo y el espacio. No pueden ser objetos demasiado perecederos, como quesos o según que alimentos. Tampoco sobra el espacio, aunque siempre se puede expandir con cinchas. Otro problema es que la carga suele ir apretada, nada de cosass frágiles como pan de pipas.
+
+### Indirecto
+Implica pasar una semana en Praga, incluidos otras restricciones que puedan aplicarse. Pero también cosas que me pueda interesar tener para ese viaje y no necesariamente paraa Berlín
+
+
+## Equipaje
+Cada modalidad de ruta puede añadir o cambiar el equipaje según restricciones. Se partirá de una lista de básicos con lo absolutamente necesario para irme. Los objetos pueden estar en varias listas. Ver [restricciones](#restricciones)
+- **Obligatorio** Cosas que me tengo que llevar si o si
+- **Opcional** Cosas que estaría bien llevarse en general
+- **No avión** Cosas que me llevaría si no viajo en avión (EG. Aceite)
+- **Directo** Cosas que me llevaría si viajo directo a Berlín
+- **Indirecto** Cosas que me llevaría si viajo pasando por Praga
+
+**Tabla de ejemplo**
+| Objeto | Lista       | Plan   |
+|--------|-------------|--------|
+|        | Obligatorio | Trento |
+|        | Opcional    |        |
+|        | No avión    |        |
+|        | Directo     |        |
+|        | No directo  |        |
+
+
+
+| Objeto                                                                              | Lista       | Plan   |
+|-------------------------------------------------------------------------------------|-------------|--------|
+| Insulina                                                                            | Obligatorio | Trento |
+| factor k=2 de agujas                                                                | Opcional    |        |
+| Navaja                                                                              | No avión    | Berlín |
+| Queso tetilla                                                                       | Directo     |        |
+| bañador                                                                             | No directo  | Praga  |
+
+
+
+## Versiones
+1. Versión inicial
+2. Tipos de ruta y lista de cosas
