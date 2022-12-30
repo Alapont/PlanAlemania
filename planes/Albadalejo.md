@@ -1,18 +1,25 @@
 # Plan Albaladejo
 Ver 1
 _No es mas tonto porque no se entrena_
+## Meta
 
+- Version 1.1
+- Plan padre: [plan Alemania](Alemania.md)
+- Planes dependientes
+  - ninguno
+### Indice
 - [Plan Albaladejo](#plan-albaladejo)
+  - [Meta](#meta)
   - [Introducción](#introducción)
   - [El plan](#el-plan)
   - [Elementos necesarios](#elementos-necesarios)
   - [Versiones](#versiones)
 
 ## Introducción
-El plan Albadalejo es un plan de muestra para que pueda copiar y pegar y sustituir, así pensando poco.
+El plan AAlbaladejo es un plan de muestra para que pueda copiar y pegar y sustituir, así pensando poco.
 
 ## El plan
-El plan Albadalejo consiste en tener un archivo con una plantilla lista para compiar y pegar. Tiene un número de versión para poder llevar control de qué cosas incluye o no. También tiene un control de versiones
+El plan AAlbaladejo consiste en tener un archivo con una plantilla lista para compiar y pegar. Tiene un número de versión para poder llevar control de qué cosas incluye o no. También tiene un control de versiones
 
 ## Elementos necesarios
 No hay categorías concretas que tengan que entrar en el plan, pero sí que hay cosas que debe contener:
