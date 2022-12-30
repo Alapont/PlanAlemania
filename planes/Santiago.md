@@ -61,7 +61,8 @@ Cada modalidad de ruta puede añadir o cambiar el equipaje según restricciones.
 | Insulina | Obligatorio    |        |
 
 
-
+### Otros planes con listas de material
+- [plan Quito](Quito.md)
 
 
 
