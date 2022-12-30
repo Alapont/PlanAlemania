@@ -1,23 +1,29 @@
 # Plan Albaladejo
-Ver 1
 _No es mas tonto porque no se entrena_
 
+## Meta
+- Version 1.1
+- Plan padre: [plan Alemania](Alemania.md)
+- Planes dependientes
+  - ninguno
+
+### Indice
+- [Plan Albaladejo](#plan-albaladejo)
+  - [Meta](#meta)
+  - [Introducción](#introducción)
+  - [El plan](#el-plan)
+  - [Versiones](#versiones)
+
+
 ## Introducción
-El plan Albadalejo es un plan de muestra para que pueda copiar y pegar y sustituir, así pensando poco.
+El plan Berlín consiste en no llegar allí con los brazos cruzados y ya. Tener preparada la llegada y la salida.
 
 ## El plan
-El plan Albadalejo consiste en tener un archivo con una plantilla lista para compiar y pegar. Tiene un número de versión para poder llevar control de qué cosas incluye o no. También tiene un control de versiones
+Tengo que estar bien con la gente allí. Las Katjas son majas y estaría bien tener un detalle con ellas, a ser posible en forma de comida. También tengo que poder hacer mi vida allí y no ser un mueble para Betsy.
 
-## Elementos necesarios
-No hay categorías concretas que tengan que entrar en el plan, pero sí que hay cosas que debe contener:
-
-- Un nombre bonito, significativo y medianamente relacionado con lo que se vaa a hacer.
-- Una cita que resuma el espíritu como un entrenador antes del último partido de la temporada contra los rivales que decide toda la película
-- Un resumen del plan
-- El plan en sí
-- Documentación
-- Control de versiones
+Otra parte del plan es la salida en caso de que pase algo.
 
 ## Versiones
 
 1. declaración del plan y las partes que tiene
+2. Ajustado a versión 1.1
