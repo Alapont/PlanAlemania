@@ -29,8 +29,11 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
 - Betsy
   - Es parte muy implicada y su opinión puede verse afectada
   - Qué opina de tenerme?
+    - Le hace ilusión (y eso me gusta)
+    - No sería en el mismo plan que las vacaciones (y tiene razón)
   - Que opina de lo de Ana? ha hablado con ella?
     - quiere que esté con ella cuando pase?
+  - No voy a terminar de tener esta conversación porque tiene que ser un rolling release
 - Mac & Ana
   - Ana sabe de emociones y relaciones, quizá lo que necesites es una consulta
   - Si me lo pide el estómago, adelante. No la polla, el estómago
