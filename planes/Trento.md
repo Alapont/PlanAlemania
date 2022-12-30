@@ -37,16 +37,7 @@ Documentación y cosas que pueda necesitar
 - Sociales
   - Tengo cosas que hacer allí? 
   - Hay opciones de conocer gente?
-  - Que opinan tus amigos?
-    - Leila
-    - Raul
-    - Noel
-    - Alba
-    - Mac & Ana
-    - Cris
-    - Moni
-    - Madre
-    - Betsy
+  - Que opinan tus amigos? [ver plan Babel](Babel.md)
   - Qué opina la gente de allí?
     - Katjas
   - Betsy ha hablado con Ana?
