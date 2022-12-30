@@ -33,6 +33,12 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
     - quiere que esté con ella cuando pase?
 - Mac & Ana
   - Ana sabe de emociones y relaciones, quizá lo que necesites es una consulta
+  - Si me lo pide el estómago, adelante. No la polla, el estómago
+  - Me ha preguntado si tenemos cosas en común, como tener hijos y cosas así.
+    - Esto no ha sido un lío fortuito, si no no tendría esta conversación
+    - ella no, yo si. Pero tener hijos no es un plan, es un capricho.
+    - Ana se ha ilusionado y me ha dado un abrazo, Mac al final también
+    - Ana ha curioseado el plan
 - Moni
   - Sabe lo que es irse fuera
 - Madre
