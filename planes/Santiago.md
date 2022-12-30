@@ -3,6 +3,9 @@ _Ahora empieza tu camino, Solo tú eres el señor de ti_
 
 El plan santiago son todos los pasos para ir para allá. Es el viaje, pero también son las cosas que hacer antes en preparación y después nada mas llegar o los primeros días. También son los planes que pueda proponer y se deshechen, porque es parte del camino
 
+## Plan salamanca
+el [plan Salamanca](Salamanca.md) implica ir en varios viajes en lugar de uno solo, especialmente aprovechando vuelos baratos.
+
 ## Rutas
 Hay varias rutas disponibles. Las dos diferencias principales son el uso de transporte público y pasar por praga. Pasar por Praga (indirecto) puede reducir costes, pues me quita una vuelta a Praga y una ida a Berlín. Ir en moto implica estar en Berlín con transporte propio. Ver [plan Frankenjuren](Frankenjuren.md)
 
