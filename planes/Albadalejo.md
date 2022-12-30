@@ -2,11 +2,11 @@
 Ver 1
 _No es mas tonto porque no se entrena_
 ## Meta
-
 - Version 1.1
 - Plan padre: [plan Alemania](Alemania.md)
 - Planes dependientes
   - ninguno
+
 ### Indice
 - [Plan Albaladejo](#plan-albaladejo)
   - [Meta](#meta)
@@ -36,3 +36,4 @@ No hay categorías concretas que tengan que entrar en el plan, pero sí que hay 
 
 1. declaración del plan y las partes que tiene
 2. Tabla de contenidos
+3. Meta section

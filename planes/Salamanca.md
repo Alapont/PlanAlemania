@@ -2,10 +2,17 @@
 Ver 1
 _quod natura non dat helmantica non praestat_
 
+## Meta
+- Version 1.1
+- Plan padre: [plan Santiago](Santiago.md)
+- Planes dependientes
+  - ninguno
+
+### Indice
 - [Plan Salamanca](#plan-salamanca)
+  - [Meta](#meta)
   - [Introducción](#introducción)
   - [El plan](#el-plan)
-  - [Empresas de envíos](#empresas-de-envíos)
   - [Versiones](#versiones)
 
 ## Introducción
@@ -17,3 +24,4 @@ En lugar de irme todo de golpe, hacer diferentes viajes puede suavizar la transi
 
 ## Versiones
 1. declaración del plan
+2. Ajustado a plantilla 1.1

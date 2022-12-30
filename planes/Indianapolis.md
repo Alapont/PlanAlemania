@@ -2,6 +2,21 @@
 Ver 1
 _No es mas tonto porque no se entrena_
 
+## Meta
+- Version 1.1
+- Plan padre: [plan Berlín](Berlin.md)
+- Planes dependientes
+  - ninguno
+
+### Indice
+- [Plan Indianapolis](#plan-indianapolis)
+  - [Meta](#meta)
+  - [Introducción](#introducción)
+  - [El plan](#el-plan)
+  - [Empresas de envíos](#empresas-de-envíos)
+  - [Versiones](#versiones)
+
+
 ## Introducción
 El plan indianápolis es un plan de abortar localización de forma no premeditada y hacerse las 500 millas de vuelta (no se cuanto es una milla)
 
@@ -23,3 +38,4 @@ Es posible que la vuelta implique dejar cosas allí que no pueda traer de vuelta
 ## Versiones
 
 1. declaración del plan
+2.  Ajustado a plantilla 1.1

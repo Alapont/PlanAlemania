@@ -1,9 +1,17 @@
 # Le Mans
 _Am I on fire? Fill the tank. -Carroll Shelby_
 
-Ir a Berlín en Moto. Parte del [plan Santiago](Santiago.md) 
+Ir a Berlín en Moto.
 
+## Meta
+- Version 1.1
+- Plan padre: [plan Santiago](Santiago.md)
+- Planes dependientes
+  - ninguno
+
+### Indice
 - [Le Mans](#le-mans)
+  - [Meta](#meta)
   - [Características](#características)
   - [Plan](#plan)
   - [Equipaje](#equipaje)
@@ -49,3 +57,4 @@ El viaje son 2.390km y 23h de moto desde Madrid y 2180km y 21 horas desde Sagunt
 ## Versiones
 1. Versión inicial
 2. Versin redactada
+3. Ajustado a plantilla 1.1

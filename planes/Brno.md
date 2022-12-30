@@ -1,7 +1,16 @@
 # Brno
 Ir a Berlín en moto pasando por Praga. Parte del [plan Santiago](Santiago.md)
 
+
+## Meta
+- Version 1.1
+- Plan padre: [plan Santiago](Santiago.md)
+- Planes dependientes
+  - ninguno
+
+### Indice
 - [Brno](#brno)
+  - [Meta](#meta)
   - [Características](#características)
   - [Plan](#plan)
   - [Equipaje](#equipaje)
@@ -48,3 +57,4 @@ El viaje son 2.200km 22h de moto desde Madrid y 2034km y 20 horas desde Sagunto.
 ## Versiones
 1. Versión inicial
 2. Versin redactada
+3. Ajustado a plantilla 1.1

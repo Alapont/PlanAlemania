@@ -1,7 +1,20 @@
 # Plan Frankenjuren
 Ver 1
 
-__
+## Meta
+- Version 1.1
+- Plan padre: [plan Berlín](Berlin.md)
+- Planes dependientes
+  - ninguno
+
+### Indice
+- [Plan Frankenjuren](#plan-frankenjuren)
+  - [Meta](#meta)
+  - [Introducción](#introducción)
+  - [El plan](#el-plan)
+  - [Clubes y sociedades](#clubes-y-sociedades)
+  - [Versiones](#versiones)
+
 
 ## Introducción
 El plan Frankenjuren (en honor a la zona de escalda Alemana) consiste en encontrar cosas que hacer allí
@@ -18,3 +31,4 @@ Betsy tiene amigos majos, pero tengo que buscarme comunidad local. No vayas a es
 ## Versiones
 
 1. versión inicial y primeras características
+2.  Ajustado a plantilla 1.1

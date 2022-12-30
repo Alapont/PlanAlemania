@@ -1,7 +1,16 @@
 # Las Palmas
 Ir a Praga en Avión y a Berlín en Bus
 
+
+## Meta
+- Version 1.1
+- Plan padre: [plan Santiago](Santiago.md)
+- Planes dependientes
+  - ninguno
+
+### Indice
 - [Las Palmas](#las-palmas)
+  - [Meta](#meta)
   - [Características](#características)
   - [Plan](#plan)
   - [Pros y Contras](#pros-y-contras)
@@ -37,3 +46,4 @@ El plan las palmas consiste en ir en avión a Praga y de ahí tomar un autobús 
 ## Versiones
 1. Versión inicial
 2. Versin redactada
+3. Ajustado a plantilla 1.1

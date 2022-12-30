@@ -5,7 +5,9 @@ _No es mas tonto porque no se entrena_
 - Version 1.1
 - Plan padre: [plan Alemania](Alemania.md)
 - Planes dependientes
-  - ninguno
+  - [plan Frankenjura](planes/Frankenjuren.md)
+  - [plan Indianápolis](planes/Indianapolis.md)
+  - [plan Nazaret](planes/Nazaret.md)
 
 ### Indice
 - [Plan Albaladejo](#plan-albaladejo)

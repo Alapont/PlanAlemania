@@ -3,7 +3,23 @@ _La iglesia se partió en el concilio de Trento, yo decido  si parto o no_
 
 El plan Trento es el plan al revés. Se puede terminar antes de empezar y para cuando empiece ha terminado. 
 
+## Meta
+- Version 1.1
+- Plan padre: [plan Alemania](Alemania.md)
+- Planes dependientes
+  - [plan Toronto](Toronto.md)
 
+### Indice
+- [Plan Trento](#plan-trento)
+  - [Meta](#meta)
+  - [Intro](#intro)
+  - [Ambitos del plan](#ambitos-del-plan)
+  - [Preguntas y respuestas](#preguntas-y-respuestas)
+- [Versiones](#versiones)
+
+
+
+## Intro
 El plan trento consiste en decidir si parto o no con la mejor de la información y de las mejores maneras posibles. Existen muchos temas de los que debo tratar antes de irme o de pensar en si tomar la decisión. El plan Trento no incluye preparación del plan Santiago, pero puede afectar.
 
 Lo mas importante del plan trento es preparaar la decisión de irme en todos los aspectos que pueda.
@@ -57,3 +73,4 @@ Documentación y cosas que pueda necesitar
 # Versiones
 1. Establecer plan
 2. Pasar preguntas a la pizarra
+3. Ajustado a plantilla 1.1

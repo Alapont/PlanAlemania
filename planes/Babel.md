@@ -2,7 +2,15 @@
 Ver 1
 _No es mas tonto porque no se entrena_
 
+## Meta
+- Version 1.1
+- Plan padre: [plan Alemania](Alemania.md)
+- Planes dependientes
+  - ninguno
+
+### Indice
 - [Plan Babel](#plan-babel)
+  - [Meta](#meta)
   - [Introducción](#introducción)
   - [El plan](#el-plan)
   - [Gente](#gente)
@@ -46,3 +54,4 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
 ## Versiones
 1. copia de la lista de gente del [plan Trento](Trento.md)
 2. Tabla de contenidos
+3. Ajustado a plantilla 1.1

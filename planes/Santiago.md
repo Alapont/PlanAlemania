@@ -2,6 +2,27 @@
 _Ahora empieza tu camino, Solo tú eres el señor de ti_
 
 El plan santiago son todos los pasos para ir para allá. Es el viaje, pero también son las cosas que hacer antes en preparación y después nada mas llegar o los primeros días. También son los planes que pueda proponer y se deshechen, porque es parte del camino
+## Meta
+- Version 1.1
+- Plan padre: [plan Alemania](Alemania.md)
+- Planes dependientes
+  - [plan Salamanca](planes/Salamanca.md)
+  - [plan Brno](planes/Brno.md)
+  - [plan Le Mans](planes/Le%20Mans.md)
+  - [plan Las Palmas](planes/Las%20Palmas.md)
+  - [plan Gibraltar](planes/Gibraltar.md)
+  - [plan Praga](planes/Praga.md)
+  - [plan Quito](planes/Quito.md)
+
+### Indice
+- [plan Santiago](#plan-santiago)
+  - [Meta](#meta)
+  - [Plan salamanca](#plan-salamanca)
+  - [Rutas](#rutas)
+  - [Restricciones](#restricciones)
+  - [Equipaje](#equipaje)
+  - [Versiones](#versiones)
+
 
 ## Plan salamanca
 el [plan Salamanca](Salamanca.md) implica ir en varios viajes en lugar de uno solo, especialmente aprovechando vuelos baratos.
@@ -69,3 +90,4 @@ Cada modalidad de ruta puede añadir o cambiar el equipaje según restricciones.
 ## Versiones
 1. Versión inicial
 2. Tipos de ruta y lista de cosas
+3. Ajustado a plantilla 1.1

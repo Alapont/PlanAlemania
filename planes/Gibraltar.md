@@ -1,9 +1,16 @@
 # Gibraltar
 _Gibraltar dice que es la puerta de europa, pero Algeciras está mas al sur_
 
-Ir a Berlín en Avión. Parte del [plan Santiago](Santiago.md)
+Ir a Berlín en Avión.
+## Meta
+- Version 1.1
+- Plan padre: [plan Santiago](Santiago.md)
+- Planes dependientes
+  - ninguno
 
+### Indice
 - [Gibraltar](#gibraltar)
+  - [Meta](#meta)
   - [Características](#características)
   - [Plan](#plan)
   - [Pros y Contras](#pros-y-contras)
@@ -36,3 +43,4 @@ Un viaje en Avión implica un día completo entre una cosa y la otra. El esfuerz
 ## Versiones
 1. Versión inicial
 2. Versión completa como plantilla
+3. Ajustado a plantilla 1.1

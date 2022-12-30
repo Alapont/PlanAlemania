@@ -2,10 +2,18 @@
 Ver 1
 _Toronto doctors on track of diabetes cure_
 
+
+## Meta
+- Version 1.1
+- Plan padre: [plan Trento](Trento.md)
+- Planes dependientes
+  - ninguno
+
+### Indice
 - [Plan Toronto](#plan-toronto)
+  - [Meta](#meta)
   - [Introducción](#introducción)
   - [El plan](#el-plan)
-    - [Cantidades](#cantidades)
   - [Versiones](#versiones)
 
 ## Introducción
@@ -19,3 +27,4 @@ Tengo que medir de manera empírica cuanto uso de insulina y consumibles. Tambi�
 
 ## Versiones
 1. Declaración inicial
+2. Ajustado a plantilla 1.1
