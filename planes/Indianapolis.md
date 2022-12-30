@@ -16,6 +16,10 @@ Los factores a tener en cuenta son:
 - tiempo
   - un viaje en moto sale cuando yo quiero pero es cansado y es casi seguro que necesite una parada. Ver [plan Le Mans](Le%20Mans.md) para ver paradas a la ida.
 
+
+## Empresas de envíos
+Es posible que la vuelta implique dejar cosas allí que no pueda traer de vuelta. Por ello se planifica a parte un retorno de cosaas. Es decir, Betsy me tendría que mandar una caja.
+
 ## Versiones
 
 1. declaración del plan
