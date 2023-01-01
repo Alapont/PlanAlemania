@@ -42,6 +42,10 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
     - ella no, yo si. Pero tener hijos no es un plan, es un capricho.
     - Ana se ha ilusionado y me ha dado un abrazo, Mac al final también
     - Ana ha curioseado el plan
+- Cris y Slav
+  - Slav se fue con 20 años, sigue teniendo sus amistades y habla con ellas y cuando se junta les ve y esas cosas.
+  - Se alegran y si tiene sentido y está bien, que me vaya
+  - Me van a echar de menos.
 - Moni
   - Sabe lo que es irse fuera
 - Madre
@@ -51,7 +55,6 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
 - Leila
 - Raul
 - Noel
-- Cris
 
 ## Preguntas
 - Querido $persone: Me he liado con Betsy en mi viaje a Alemania y hemos visto que, de alguna manera, nos queremos, queremos estar juntos y sé que es una locura, pero me gustaría irme para allá. Sé que no es fácil y por ello quiero saber qué piensas.
