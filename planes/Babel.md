@@ -59,6 +59,11 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
 - Alba
   - Le debes una conversación
 - Leila
+  - Cree que el riesgo merece la pena
+  - un primer viaje de convivencia puede ser bueno
+  - Tendría la conversación con Ana cuando ya supiese lo que va a haber
+    - pero Bety lo va a hacer cuando quiera
+    - aclararnos puede llevar tiempo
 - Raul
 - Noel
 
