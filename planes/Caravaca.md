@@ -1,6 +1,6 @@
 # Plan Caravaca
 Ver 1
-_No es mas tonto porque no se entrena_
+_Todos queremos salvar al mundo, pero nadie quiere ayudar a su madre a fregar los platos_
 
 ## Meta
 - Version 1.1
@@ -15,6 +15,7 @@ _No es mas tonto porque no se entrena_
   - [El plan](#el-plan)
   - [Curriculo](#curriculo)
   - [Metodología](#metodología)
+  - [Apuntes](#apuntes)
   - [Versiones](#versiones)
 
 ## Introducción
@@ -33,6 +34,9 @@ Nunca es buen momento para ponerse. Como todos los momentos son igual de malos, 
 [Spaceship you](https://www.youtube.com/watch?v=snAhsXyO3Ck) es una buena filosofía de cuidarse, y el ejercicio es importante. Voy a plantear un espacio en el que estaré obligado a invertir en mi en cosas concretas y en invertir en mi en cómo invertir en mi (cualquier plan que esperemos que no falle ncesita retroalimentarse. Esta es la parte de nave del horario, donde hay un espacio dedicado y se tienen que cumplir tareas, que pueden adelantarse o sobrepasar la línea.
 
 Lo que mas temo es no tener la fuerza para forzarme a mi mismo. Voy a usar el calendario para apuntar si ese día rendí o no, y poder cabalgar la ola. Es importante poder ver atrás y alegrarse de las victorias.
+
+## Apuntes
+Los apuntes se quedarán en un sitio que pueda acceder fácilmente y llevar conmigo: git. No necesito ningún tipo de dispositivo especial ni condición para acceder al contenido, y no debería haber problema en hacer un git push furtivo si la vpn va rara. Tomar apuntes a mano no es mala idea, mas si se hacen dibujos, pero debo de poder tener todo en el mismo sitio, poder hacer una chuleta en la que buscar y similares.
 
 ## Versiones
 
