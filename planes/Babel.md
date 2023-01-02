@@ -31,6 +31,12 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
   - Qué opina de tenerme?
     - Le hace ilusión (y eso me gusta)
     - No sería en el mismo plan que las vacaciones (y tiene razón)
+    - Le da miedo que esto pueda ir rápido
+    - Moverse es una decisión dura
+    - Somos pareja?
+      - Yo he dicho que no me debe nada, pero algo hay
+      - Todo esto se me hace dificil y valoro mucho su opinión. 
+      - También valoro mucho contarle lo que me pasa y dejarle las cosas todo lo claro que sea posible. 
   - Que opina de lo de Ana? ha hablado con ella?
     - quiere que esté con ella cuando pase?
   - No voy a terminar de tener esta conversación porque tiene que ser un rolling release
