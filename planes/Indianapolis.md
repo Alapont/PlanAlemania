@@ -35,6 +35,10 @@ Los factores a tener en cuenta son:
 ## Empresas de envíos
 Es posible que la vuelta implique dejar cosas allí que no pueda traer de vuelta. Por ello se planifica a parte un retorno de cosaas. Es decir, Betsy me tendría que mandar una caja.
 
+Para la **Moto** preguntar a Ana que está acostumbrada, pero hay buscadores para meter los datos y que te presupuesten. unos 700€
+
+Para paquetes [gls](https://www.gls-one.de/en/parcel?destination=es&utm_source=gls-pakete&utm_medium=countrypages&utm_campaign=spain), o [DHL](https://www.dhl.de/en/privatkunden/pakete-versenden/weltweit-versenden.html) 20 ó 30€
+
 ## Versiones
 
 1. declaración del plan
