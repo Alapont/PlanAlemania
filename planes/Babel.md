@@ -4,7 +4,7 @@ _No es mas tonto porque no se entrena_
 
 ## Meta
 - Version 1.1
-- Plan padre: [plan Alemania](Alemania.md)
+- Plan padre: [plan Trento](Trento.md)
 - Planes dependientes
   - ninguno
 

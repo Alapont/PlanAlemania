@@ -1,5 +1,4 @@
 # Plan Caravaca
-Ver 1
 _Todos queremos salvar al mundo, pero nadie quiere ayudar a su madre a fregar los platos_
 
 ## Meta
@@ -36,7 +35,7 @@ Nunca es buen momento para ponerse. Como todos los momentos son igual de malos, 
 Lo que mas temo es no tener la fuerza para forzarme a mi mismo. Voy a usar el calendario para apuntar si ese día rendí o no, y poder cabalgar la ola. Es importante poder ver atrás y alegrarse de las victorias.
 
 ## Apuntes
-Los apuntes se quedarán en un sitio que pueda acceder fácilmente y llevar conmigo: git. No necesito ningún tipo de dispositivo especial ni condición para acceder al contenido, y no debería haber problema en hacer un git push furtivo si la vpn va rara. Tomar apuntes a mano no es mala idea, mas si se hacen dibujos, pero debo de poder tener todo en el mismo sitio, poder hacer una chuleta en la que buscar y similares.
+Los apuntes se quedarán en un sitio que pueda acceder fácilmente y llevar conmigo: [git](https://github.com/Alapont/DevOps-training). No necesito ningún tipo de dispositivo especial ni condición para acceder al contenido, y no debería haber problema en hacer un git push furtivo si la vpn va rara. Tomar apuntes a mano no es mala idea, mas si se hacen dibujos, pero debo de poder tener todo en el mismo sitio, poder hacer una chuleta en la que buscar y similares.
 
 ## Versiones
 

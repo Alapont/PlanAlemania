@@ -7,8 +7,8 @@ _Verba volant, scripta manent_
 - Plan padre: [plan Alemania](Alemania.md)
 - Planes dependientes
   - [plan Alejandría](Alejandría.md)
-  - [plan Trento](planes/Trento.md)
-  - [plan Berlín](planes/Berlin.md)
+  - [plan Trento](Trento.md)
+  - [plan Berlín](Berlin.md)
 
 ### Indice
 - [Plan Alemania](#plan-alemania)

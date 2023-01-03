@@ -8,6 +8,7 @@ El plan Trento es el plan al revés. Se puede terminar antes de empezar y para c
 - Plan padre: [plan Alemania](Alemania.md)
 - Planes dependientes
   - [plan Toronto](Toronto.md)
+  - [plan Babel](Babel.md)
 
 ### Indice
 - [Plan Trento](#plan-trento)
