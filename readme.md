@@ -14,6 +14,7 @@ Todas mis notas y documentación para irme a Alemania, [ver plan Alemania](Alema
       - [plan Le Mans](planes/Le%20Mans.md)
       - [plan Las Palmas](planes/Las%20Palmas.md)
       - [plan Gibraltar](planes/Gibraltar.md)
+      - [plan Hispalis](planes/Hispalis.md)
     - [plan Praga](planes/Praga.md)
     - [plan Quito](planes/Quito.md)
   - [plan Berlín](planes/Berlin.md)
@@ -35,6 +36,7 @@ Todas mis notas y documentación para irme a Alemania, [ver plan Alemania](Alema
 |  6 | Preguntar a la enfermera por provisiones | Toronto      | to do       | medio     |
 |  8 | Conseguir receta impresa de medicinas    | Toronto      | to do       | baja      |
 | 11 | Redactar plan Praga                      | Santiago     | to do       | alta      |
+| 12 | Plan Alejandría con viajes               | Alejandría   | to do       | alta      |
 |    | **tareas realizadas**                    | Alemania     |             |           |
 |  1 | Formatear Planes                         | Albadalejo   | hecho       | baja      |
 |  7 | Añadir todos los planes y generar Berlín | Alemania     | hecho       | alta      |

@@ -6,13 +6,14 @@ El plan santiago son todos los pasos para ir para allá. Es el viaje, pero tambi
 - Version 1.1
 - Plan padre: [plan Alemania](Alemania.md)
 - Planes dependientes
-  - [plan Salamanca](planes/Salamanca.md)
-  - [plan Brno](planes/Brno.md)
-  - [plan Le Mans](planes/Le%20Mans.md)
-  - [plan Las Palmas](planes/Las%20Palmas.md)
-  - [plan Gibraltar](planes/Gibraltar.md)
-  - [plan Praga](planes/Praga.md)
-  - [plan Quito](planes/Quito.md)
+  - [plan Salamanca](Salamanca.md)
+  - [plan Brno](Brno.md)
+  - [plan Le Mans](Le%20Mans.md)
+  - [plan Las Palmas](Las%20Palmas.md)
+  - [plan Gibraltar](Gibraltar.md)
+  - [plan Praga](Praga.md)
+  - [plan Quito](Quito.md)
+  - [plan Hispalis](Hispalis.md)
 
 ### Indice
 - [plan Santiago](#plan-santiago)

@@ -40,11 +40,12 @@ Los planes de retorno finalizan el tiempo en Berlín, no necesariamente de maner
 - [plan Nazaret](Nazaret.md) incluye el retorno sin moto y que se beneficia de una mayor planificación.
 
 ### Planes de ocupación
-Los planes de ocupación implican qué hacer con el tiempo. Tanto a nivel de ocio como de otra cosa.
+Los planes de ocupación implican qué hacer con el tiempo. Tanto a nivel de ocio como de otra cosa. Algunas opciones no son lo suficientemente complejas paara haberse desarrollado en un plan.
 
 - [plan FrankenJuren](Frankenjuren.md) se encarga de la escalada.
 - [plan Caravaca](Caravaca.md) se encarga de las oportunidades laborales dentro y fuera de la empresa.
 - [plan Londres](Londres.md) se encarga de registrar el viaje.
+- Buscar algún proyecto social tipo cryptoparty o Chaos Computer Club
 
 ## Versiones
 
