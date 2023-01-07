@@ -64,6 +64,11 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
   - Tendría la conversación con Ana cuando ya supiese lo que va a haber
     - pero Bety lo va a hacer cuando quiera
     - aclararnos puede llevar tiempo
+  - Ha hablado con un amigo (alfon) que está allí
+    - Está más tranquilo que en España con mejor sueldo pero todo más caro. Alquileres caros, todo el mundo comparte piso pero si tienes más de 30 te miran raro
+    - se suele conseguir cosas por el boca a boca más que buscando (pisos)
+    - Curro de informático en principio no te va a faltar
+    - Y que los alemanes tienen forma rara de comunicarse y establecer relaciones/amistades
 - Raul
 - Noel
 
