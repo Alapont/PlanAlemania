@@ -7,6 +7,7 @@ Todas mis notas y documentación para irme a Alemania, [ver plan Alemania](Alema
     - [plan Albadalejo](planes/Albadalejo.md)
   - [plan Trento](planes/Trento.md)
     - [plan Toronto](planes/Toronto.md)
+    - [plan Babel](planes/Babel.md)
   - [plan Santiago](planes/Santiago.md)
     - Planes de viaje
       - [plan Salamanca](planes/Salamanca.md)
@@ -14,7 +15,7 @@ Todas mis notas y documentación para irme a Alemania, [ver plan Alemania](Alema
       - [plan Le Mans](planes/Le%20Mans.md)
       - [plan Las Palmas](planes/Las%20Palmas.md)
       - [plan Gibraltar](planes/Gibraltar.md)
-      - [plan Hispalis](planes/Hispalis.md)
+    - [plan Hispalis](planes/Hispalis.md)
     - [plan Praga](planes/Praga.md)
     - [plan Quito](planes/Quito.md)
   - [plan Berlín](planes/Berlin.md)

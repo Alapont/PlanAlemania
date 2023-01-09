@@ -47,6 +47,9 @@ Los planes de ocupación implican qué hacer con el tiempo. Tanto a nivel de oci
 - [plan Londres](Londres.md) se encarga de registrar el viaje.
 - Buscar algún proyecto social tipo cryptoparty o Chaos Computer Club
 
+### Planes de Mantenimiento
+Los planes de mantenimiento se refieren a mantener lo que tengo aquí. En un futuro, el [plan Sicilia](Sicilia.md) se ocupará de la casa. También tendré que hacer planes para las relaciones sociales y familiares.
+
 ## Versiones
 
 1. declaración del plan y las partes que tiene
