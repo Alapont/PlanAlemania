@@ -70,6 +70,8 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
     - Curro de informático en principio no te va a faltar
     - Y que los alemanes tienen forma rara de comunicarse y establecer relaciones/amistades
 - Raul
+  - Se alegra por mi, irme es dificil. Sabe de empezar en otra ciudad y para él fue lo mejor que pudo hacer, no solo Madrid, también Qatar
+  - Si hace falta me cuida la casa
 - Noel
 
 ## Preguntas
