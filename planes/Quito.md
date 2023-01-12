@@ -25,6 +25,9 @@ El plan Quito consiste en agrupar todas las tonterías que tengo pendiente con B
 
 - Objetos
   - Comprarle una camiseta como tributo
+    - https://www.pampling.com/productos/12171-Adopt-Forbidden-Cats
+    - https://www.pampling.com/productos/12491-Everyday-My-Head-Goes-AAAA
+    - https://www.pampling.com/productos/12188-Meow-Meow-Peow-Peow
   - Llevarle queso San Simón da costa
 - Acciones
   - Spa

@@ -32,6 +32,7 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
     - Le hace ilusión (y eso me gusta)
     - No sería en el mismo plan que las vacaciones (y tiene razón)
     - Le da miedo que esto pueda ir rápido
+      - le agobia
     - Moverse es una decisión dura
     - Somos pareja?
       - Yo he dicho que no me debe nada, pero algo hay
@@ -66,7 +67,7 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
     - aclararnos puede llevar tiempo
   - Ha hablado con un amigo (alfon) que está allí
     - Está más tranquilo que en España con mejor sueldo pero todo más caro. Alquileres caros, todo el mundo comparte piso pero si tienes más de 30 te miran raro
-    - se suele conseguir cosas por el boca a boca más que buscando (pisos)
+    - Se suele conseguir cosas por el boca a boca más que buscando (pisos)
     - Curro de informático en principio no te va a faltar
     - Y que los alemanes tienen forma rara de comunicarse y establecer relaciones/amistades
 - Raul
