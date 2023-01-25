@@ -32,7 +32,7 @@ Todas mis notas y documentación para irme a Alemania, [ver plan Alemania](Alema
 |----|------------------------------------------|--------------|-------------|-----------|
 |  0 | Rellenar todos los planes que pueda      | Alemania     | eternal     | alta      |
 |  3 | Saber si puedo trabajar desde Alemania   | Trento       | to do       | baja      |
-|  4 | Preguntar opiniones                      | Babel        | 6.5/10      | alta      |
+|  4 | Preguntar opiniones                      | Babel        | 7.5/10      | alta      |
 |  5 | Liar a alguien para que pase por casa    | Trento       | to do       | baja      |
 |  6 | Preguntar a la enfermera por provisiones | Toronto      | to do       | medio     |
 |  8 | Conseguir receta impresa de medicinas    | Toronto      | to do       | baja      |

@@ -74,6 +74,7 @@ Toda la gente de la lista es gente que me quiere y que valoro su opinión en gen
   - Se alegra por mi, irme es dificil. Sabe de empezar en otra ciudad y para él fue lo mejor que pudo hacer, no solo Madrid, también Qatar
   - Si hace falta me cuida la casa
 - Noel
+  - Cree que ya he tomado la decisión, que me queda entenderla
 
 ## Preguntas
 - Querido $persone: Me he liado con Betsy en mi viaje a Alemania y hemos visto que, de alguna manera, nos queremos, queremos estar juntos y sé que es una locura, pero me gustaría irme para allá. Sé que no es fácil y por ello quiero saber qué piensas.
