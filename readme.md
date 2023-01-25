@@ -33,8 +33,6 @@ Todas mis notas y documentación para irme a Alemania, [ver plan Alemania](Alema
 |  0 | Rellenar todos los planes que pueda      | Alemania     | eternal     | alta      |
 |  3 | Saber si puedo trabajar desde Alemania   | Trento       | to do       | baja      |
 |  4 | Preguntar opiniones                      | Babel        | 7.5/10      | alta      |
-|  5 | Liar a alguien para que pase por casa    | Trento       | to do       | baja      |
-|  6 | Preguntar a la enfermera por provisiones | Toronto      | to do       | medio     |
 |  8 | Conseguir receta impresa de medicinas    | Toronto      | to do       | baja      |
 | 11 | Redactar plan Praga                      | Santiago     | to do       | alta      |
 | 12 | Plan Alejandría con viajes               | Alejandría   | to do       | alta      |
@@ -42,5 +40,7 @@ Todas mis notas y documentación para irme a Alemania, [ver plan Alemania](Alema
 |  1 | Formatear Planes                         | Albadalejo   | hecho       | baja      |
 |  7 | Añadir todos los planes y generar Berlín | Alemania     | hecho       | alta      |
 |  2 | Copiar decisiones de la ventana          | Trento       | hecho       | media     |
-|  9 | Mirar empresas de envíos en europa       | Indianapolis | to do       | muy baja  |
+|  9 | Mirar empresas de envíos en europa       | Indianapolis | hecho       | muy baja  |
 | 10 | Redactar plan Berlín                     | Alemania     | hecho       | media     |
+|  5 | Liar a alguien para que pase por casa    | Trento       | hecho       | baja      |
+|  6 | Preguntar a la enfermera por provisiones | Toronto      | hecho       | medio     |
